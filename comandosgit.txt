@@ -1,0 +1,17 @@
+Nome completo: Michael Alberto Oliveira Vasconcellos
+CPF: 41625505817
+Nacionalidade: Brasileira
+Profissão: Analista de sistemas
+E-mail: Michael.vasconcellos10@gmail.com
+Estado Civil: Solteiro
+Regime de bens: 0 Bens em meu nome			
+Cônjuge será um dos compradores?
+( )Sim (x)Não
+Mora no Brasil?
+(x)Sim ( )Não
+Endereço - linha 1:Rua imperador montezuma 183 - 06124-160
+Endereço - linha 2:Rua leonardo rodrigues nogueira filho 156 - 06162-072
+Cidade: Osasco
+Estado/Região: SP
+País: Brasil
+Código Postal: 06124-160
