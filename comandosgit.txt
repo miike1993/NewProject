@@ -11,3 +11,5 @@ git branch -M "main" - Trocando de Master para Main
 git remote add origin "Link GitHub" - Linkar seu projeto da maquina com o da nuvem
 
 git push -u origin main - Levando os arquivos para o projeto na nuvem
+
+git add . - adiciona todos os arquivos para a lista de envio
