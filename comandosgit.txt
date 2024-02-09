@@ -1,3 +1,14 @@
+Para Atualização de arquivos
+
+git add .
+
+git commit -m
+
+git push origin main
+
+=========================================================================================
+
+
 git init - Inicializa
 
 git add reademe.md - Adiciona um arquivo no caso "reademe.md"
@@ -13,3 +24,8 @@ git remote add origin "Link GitHub" - Linkar seu projeto da maquina com o da nuv
 git push -u origin main - Levando os arquivos para o projeto na nuvem
 
 git add . - adiciona todos os arquivos para a lista de envio
+
+git push origin main - Depois da conexão criada esse comando de atualização.
+
+
+
