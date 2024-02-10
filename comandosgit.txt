@@ -27,5 +27,7 @@ git add . - adiciona todos os arquivos para a lista de envio
 
 git push origin main - Depois da conexão criada esse comando de atualização.
 
++ 1
+
 
 
